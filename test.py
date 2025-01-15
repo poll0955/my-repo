@@ -1,1 +1,1 @@
-print("Python好簡單!")
+print("Python好困難!")
